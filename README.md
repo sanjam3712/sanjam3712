@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Sanjam Indermeet Bedi ✦
+# ✦ Sanjam Bedi ✦
 
 ### Electronics & Computer Engineering · BITS Pilani Dubai
 

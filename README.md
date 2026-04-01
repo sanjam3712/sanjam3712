@@ -37,7 +37,7 @@
 
 ## 🌸 Projects
 
-### 🏎 [F1 Telemetry Dashboard](https://github.com/sanjam3712/f1-telementry-dashboard)
+### 🏎 [F1 Telemetry Dashboard](https://github.com/sanjam3712/f1-telemetry-dashboard)
 
 Pulls real F1 race data via the FastF1 API, stores it in a local SQLite database, and generates detailed telemetry charts — lap times, tyre strategies, and speed traces. Works for any driver, race, or season.
 

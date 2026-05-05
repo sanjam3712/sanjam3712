@@ -49,7 +49,7 @@ SPARKLE-funded microelectromechanical device for early cancer detection. Contrib
 
 > `MEMS` `Circuit Design` `Biomedical Engineering` `Research`
 
-### 📄 [Resume Analyzer]([https://github.com/sanjam3712/f1-telemetry-dashboard](https://github.com/sanjam3712/resume-analyzer)
+### 📄 [Resume Analyzer](https://github.com/sanjam3712/resume-analyzer)
 
 Built a full-stack resume analysis tool that evaluates resumes against job descriptions using custom keyword matching and scoring logic — no external APIs required. Designed with a Flask backend and a clean HTML/CSS/JS frontend, ready for deployment.
 

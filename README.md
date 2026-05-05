@@ -49,6 +49,13 @@ SPARKLE-funded microelectromechanical device for early cancer detection. Contrib
 
 > `MEMS` `Circuit Design` `Biomedical Engineering` `Research`
 
+### 📄 [F1 Telemetry Dashboard](https://github.com/sanjam3712/f1-telemetry-dashboard)
+
+Built a full-stack resume analysis tool that evaluates resumes against job descriptions using custom keyword matching and scoring logic — no external APIs required. Designed with a Flask backend and a clean HTML/CSS/JS frontend, ready for deployment.
+
+> `Python` `Flask` `HTML` `NLP` `JavaScript`
+
+
 ### 🦾 Arduino Robotic Claw
 
 Engineered and programmed an Arduino-based robotic claw integrating servo motors and sensors to enable precise object manipulation through embedded control logic. Built end-to-end at UBC Robotics Club.

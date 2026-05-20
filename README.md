@@ -22,17 +22,18 @@
   
 ---
 
+
 ## 🌸 GitHub Stats
 
 <div align="center">
 
-![](./profile-summary-card-output/github_octopus_theme/0-profile-details.svg)
+![](https://raw.githubusercontent.com/sanjam3712/sanjam3712/main/profile-summary-card-output/rose_pine/0-profile-details.svg)
 
-![](./profile-summary-card-output/github_octopus_theme/1-repos-per-language.svg)
-![](./profile-summary-card-output/github_octopus_theme/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/sanjam3712/sanjam3712/main/profile-summary-card-output/rose_pine/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/sanjam3712/sanjam3712/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
 
-![](./profile-summary-card-output/github_octopus_theme/3-stats.svg)
-![](./profile-summary-card-output/github_octopus_theme/4-productive-time.svg)
+![](https://raw.githubusercontent.com/sanjam3712/sanjam3712/main/profile-summary-card-output/rose_pine/3-stats.svg)
+![](https://raw.githubusercontent.com/sanjam3712/sanjam3712/main/profile-summary-card-output/rose_pine/4-productive-time.svg)
 
 </div>
 

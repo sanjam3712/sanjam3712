@@ -19,8 +19,23 @@
 - 📄 Co-authored in **Physica Scripta (2026)** — inertial imaging on graphene nanodrums, error ≤ 1.82%
 - 🌸 Outreach Coordinator @ IEEE Women in Engineering, BPDC · Marketing Executive @ ACM BPDC
 - 🏎 Currently: deep in F1 lap time data and SQLite queries at 2am
-
+  
 ---
+
+## 🌸 GitHub Stats
+
+<div align="center">
+
+![](./profile-summary-card-output/github_octopus_theme/0-profile-details.svg)
+
+![](./profile-summary-card-output/github_octopus_theme/1-repos-per-language.svg)
+![](./profile-summary-card-output/github_octopus_theme/2-most-commit-language.svg)
+
+![](./profile-summary-card-output/github_octopus_theme/3-stats.svg)
+![](./profile-summary-card-output/github_octopus_theme/4-productive-time.svg)
+
+</div>
+
 
 ## 🌸 Tech Stack
 

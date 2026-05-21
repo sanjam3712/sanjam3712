@@ -125,8 +125,5 @@ A database-backed interactive game built with modular programming, featuring use
 
 ---
 
-<div align="center">
-
-*"The intersection of hardware and data is where the magic happens."* 🌸
-
+<div align="center"
 </div>

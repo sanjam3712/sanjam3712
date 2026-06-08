@@ -100,7 +100,7 @@ A database-backed interactive game built with modular programming, featuring use
 | | Role | Organisation | Period |
 |:---:|:---|:---|:---|
 | 🌸 | Outreach Coordinator | IEEE Women in Engineering, BPDC | Aug 2025 – Present |
-| 💻 | Marketing Executive | ACM, BPDC | Jun 2025 – Present |
+| 💻 | Marketing Manager | ACM, BPDC | Jun 2026 – Present |
 | 🎪 | Marketing Executive | M.A.D Club & E-Cell — Spectrum & E-Summit | Dec 2025 – Present |
 | ⚙️ | Technical Executive | Association of Electronic Engineers, BPDC | Sep 2024 – May 2025 |
 

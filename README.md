@@ -17,7 +17,7 @@
 - 🎓 B.E. Electronics & Computer Engineering @ BITS Pilani Dubai · Expected July 2028
 - 🔬 **SPARKLE Grant Recipient** — developing a MEMS-based device for early cancer diagnosis
 - 📄 Co-authored in **Physica Scripta (2026)** — inertial imaging on graphene nanodrums, error ≤ 1.82%
-- 🌸 Outreach Coordinator @ IEEE Women in Engineering, BPDC · Marketing Executive @ ACM BPDC
+- 🌸 Outreach Coordinator @ IEEE Women in Engineering, BPDC · Marketing Manager @ ACM BPDC
 - 🏎 Currently: deep in F1 lap time data and SQLite queries at 2am
   
 ---
